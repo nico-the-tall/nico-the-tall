@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hiho, I'm Nico
 
-<!--
-**nico-the-tall/nico-the-tall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/badge/Discord-nico.the.tall-green?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/907441653760032839)
+[![Static Badge](https://img.shields.io/badge/Mail-nico.the.tall%40proton.me-green?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nico.the.tall@proton.me)
+[![Static Badge](https://img.shields.io/badge/Nekoweb-nicolas.nekoweb.org-green?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64,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&logoColor=white)](https://nicolas.nekoweb.org)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick about me:
+
+<ul>
+<li>I live in Germany</li>
+<li>Most of my work experience has been webdev or IT</li>
+<li>I very rarely code on my free time. Work sucks the fun out of it</li>
+<li>I have an engineering degree</li>
+<li>Supporter of the small and indie web</li>
+</ul>
+
+## I love pixel Art:
+|-|-|-|
+|-|-|-|
+|<img alt="Pixel Art by Toyoi Yuuta" src="https://64.media.tumblr.com/16603c05db90e488eeabc4333d66255b/a9d3423d3756d30a-a4/s500x750/2f7ef1857938f9065d997f5c4c4edf62feb267ec.gifv" height="300px" width="425px"/>|<img alt="Pixel Art by Toyoi Yuuta" src="https://64.media.tumblr.com/d77093e52c4dca29a0338bfa2fc5e1ef/9e8b755874299ba0-a0/s1280x1920/601740f1f8d78a679e8d74e4473df108d115827c.gifv" height="300px" width="425px"/>|<img alt="Pixel Art by Toyoi Yuuta" src="https://64.media.tumblr.com/d506b69747e2b5b972c5e1f256031ec9/7d6806900aad8a11-94/s1280x1920/1265eaa06a8465e3d005fea091bc2de32631b859.gifv" height="300px" width="425px"/>|
+
+<p align="center">
+  <small>Art by <a href="https://1041uuu.tumblr.com/" target="_blank" rel="noopener noreferrer">1041uuu / Toyoi Yuuta</a></small>
+</p>
